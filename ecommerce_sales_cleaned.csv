@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Sales,Discount,Profit
+ORD0001,2026-03-13,Karthik,Desk Lamp,Home,Central,1,1620,10,160.68
+ORD0002,2026-04-22,Rahul,Smartphone,Electronics,Central,2,56000,0,3626.98
+ORD0003,2026-12-26,Dinesh,Watch,Accessories,West,1,4275,5,746.26
+ORD0004,2026-01-04,Vijay,Keyboard,Electronics,West,1,2700,10,511.67
+ORD0005,2026-06-22,Karthik,Office Chair,Furniture,South,1,8075,5,1721.22
+ORD0006,2026-01-23,Keerthi,Study Table,Furniture,Central,1,10800,10,1691.24
+ORD0007,2026-05-31,Pooja,Smartphone,Electronics,East,5,119000,15,8640.36
+ORD0008,2026-04-27,Suresh,Watch,Accessories,South,1,4500,0,302.99
+ORD0009,2026-11-22,Ajay,Keyboard,Electronics,North,3,7650,15,799.24
+ORD0010,2026-12-16,Priya,Office Chair,Furniture,Central,1,7650,10,1318.03
+ORD0011,2026-07-14,Sneha,Desk Lamp,Home,Central,1,1710,5,147.31
+ORD0012,2026-01-17,Meena,Keyboard,Electronics,West,2,6000,0,579.89
+ORD0013,2026-06-11,Anitha,Mouse,Electronics,West,1,1200,20,240.26
+ORD0014,2026-03-13,Rahul,Study Table,Furniture,Central,3,30600,15,2535.5
+ORD0015,2026-10-26,Nithya,Backpack,Accessories,East,1,1760,20,226.25
+ORD0016,2026-02-16,Ravi,Keyboard,Electronics,South,5,14250,5,2016.72
+ORD0017,2026-07-17,Nithya,Headphones,Electronics,Central,2,5950,15,924.78
+ORD0018,2026-01-06,Karthik,Bookshelf,Furniture,Central,2,11200,20,2214.52
+ORD0019,2026-08-11,Vijay,Mouse,Electronics,West,3,4050,10,315.29
+ORD0020,2026-04-02,Swetha,Laptop,Electronics,South,4,198000,10,42669.41
+ORD0021,2026-03-20,Ajay,Desk Lamp,Home,North,1,1440,20,226.71
+ORD0022,2026-11-03,Meena,Backpack,Accessories,West,4,7040,20,1456.99
+ORD0023,2026-06-07,Rahul,Laptop,Electronics,South,1,49500,10,9929.48
+ORD0024,2026-09-06,Priya,Keyboard,Electronics,Central,3,9000,0,663.34
+ORD0025,2026-03-26,Sneha,Headphones,Electronics,Central,1,2975,15,629.2
+ORD0026,2026-12-20,Anitha,Watch,Accessories,East,1,4275,5,891.88
+ORD0027,2026-09-22,Keerthi,Study Table,Furniture,South,5,54000,10,7025.18
+ORD0028,2026-10-11,Rahul,Keyboard,Electronics,Central,1,2700,10,171.09
+ORD0029,2026-01-17,Meena,Keyboard,Electronics,South,1,3000,0,289.89
+ORD0030,2026-03-09,Harish,Backpack,Accessories,Central,1,1870,15,176.3
+ORD0031,2026-04-08,Karthik,Bookshelf,Furniture,South,1,5950,15,1125.74
+ORD0032,2026-01-28,Karthik,Desk Lamp,Home,South,1,1530,15,192.44
+ORD0033,2026-04-08,Dinesh,Study Table,Furniture,West,2,24000,0,2394.84
+ORD0034,2026-02-08,Keerthi,Headphones,Electronics,Central,1,3150,10,422.16
+ORD0035,2026-02-17,Rahul,Smartphone,Electronics,North,1,22400,20,4340.32
+ORD0036,2026-01-31,Vijay,Study Table,Furniture,West,2,22800,5,4522.24
+ORD0037,2026-08-21,Suresh,Laptop,Electronics,West,5,247500,10,51540.12
+ORD0038,2026-09-07,Divya,Water Bottle,Home,North,4,2880,20,477.79
+ORD0039,2026-10-05,Ravi,Mouse,Electronics,East,1,1500,0,229
+ORD0040,2026-09-29,Vijay,Laptop,Electronics,South,1,46750,15,6566.32
+ORD0041,2026-02-04,Rahul,Backpack,Accessories,West,1,2090,5,148.31
+ORD0042,2026-11-01,Ravi,Smartphone,Electronics,Central,4,89600,20,8905.74
+ORD0043,2026-06-11,Sneha,Smartphone,Electronics,North,1,22400,20,3369.77
+ORD0044,2026-03-09,Suresh,Desk Lamp,Home,West,2,3420,5,350.54
+ORD0045,2026-11-15,Harish,Office Chair,Furniture,South,4,34000,0,2090.68
+ORD0046,2026-06-28,Priya,Smartphone,Electronics,North,2,44800,20,4588.96
+ORD0047,2026-12-27,Suresh,Office Chair,Furniture,Central,1,7225,15,1397.31
+ORD0048,2026-12-06,Karthik,Desk Lamp,Home,North,2,2880,20,310.75
+ORD0049,2026-03-21,Sneha,Mouse,Electronics,East,1,1500,0,268.18
+ORD0050,2026-11-21,Sneha,Watch,Accessories,Central,1,4050,10,374.93
+ORD0051,2026-08-05,Sneha,Bookshelf,Furniture,South,1,7000,0,523.37
+ORD0052,2026-05-15,Vijay,Laptop,Electronics,West,1,52250,5,8461.27
+ORD0053,2026-02-08,Divya,Backpack,Accessories,Central,2,3520,20,216.65
+ORD0054,2026-08-09,Divya,Laptop,Electronics,South,3,132000,20,19589.33
+ORD0055,2026-04-18,Rahul,Mouse,Electronics,South,1,1500,0,305.74
+ORD0056,2026-03-21,Rahul,Office Chair,Furniture,North,3,21675,15,4677.77
+ORD0057,2026-06-20,Surya,Headphones,Electronics,North,3,10500,0,931.33
+ORD0058,2026-01-20,Manoj,Mouse,Electronics,North,1,1500,0,181.81
+ORD0059,2026-04-27,Rahul,Keyboard,Electronics,South,3,7650,15,886.98
+ORD0060,2026-02-05,Sneha,Desk Lamp,Home,East,1,1620,10,169.41
+ORD0061,2026-01-15,Karthik,Desk Lamp,Home,East,2,2880,20,325.39
+ORD0062,2026-11-02,Surya,Headphones,Electronics,East,2,6300,10,416.56
+ORD0063,2026-09-19,Karthik,Water Bottle,Home,West,3,2295,15,360.3
+ORD0064,2026-01-01,Swetha,Watch,Accessories,Central,1,4500,0,780.33
+ORD0065,2026-02-05,Meena,Desk Lamp,Home,Central,2,3420,5,404.5
+ORD0066,2026-06-03,Swetha,Office Chair,Furniture,East,2,17000,0,2977.73
+ORD0067,2026-10-11,Divya,Desk Lamp,Home,North,1,1530,15,262.48
+ORD0068,2026-03-31,Pooja,Study Table,Furniture,Central,2,20400,15,3434.77
+ORD0069,2026-04-18,Surya,Mouse,Electronics,Central,1,1500,0,162.93
+ORD0070,2026-12-12,Anitha,Watch,Accessories,Central,2,7650,15,999.75
+ORD0071,2026-05-26,Swetha,Bookshelf,Furniture,Central,3,19950,5,3300.05
+ORD0072,2026-04-26,Anitha,Office Chair,Furniture,North,1,8075,5,1353.75
+ORD0073,2026-02-07,Keerthi,Laptop,Electronics,West,1,46750,15,7377.33
+ORD0074,2026-05-05,Divya,Desk Lamp,Home,South,2,3060,15,425.65
+ORD0075,2026-12-23,Swetha,Smartphone,Electronics,West,3,79800,5,7033.72
+ORD0076,2026-08-26,Swetha,Laptop,Electronics,Central,2,110000,0,14633.73
+ORD0077,2026-09-16,Surya,Watch,Accessories,Central,1,3825,15,604.44
+ORD0078,2026-05-07,Sneha,Bookshelf,Furniture,Central,3,17850,15,2356.4
+ORD0079,2026-05-27,Rahul,Bookshelf,Furniture,East,2,12600,10,1642.78
+ORD0080,2026-03-19,Rahul,Office Chair,Furniture,West,1,6800,20,495.67
+ORD0081,2026-07-28,Meena,Water Bottle,Home,Central,1,855,5,60.09
+ORD0082,2026-07-19,Harish,Bookshelf,Furniture,South,1,6650,5,1285.2
+ORD0083,2026-06-02,Nithya,Watch,Accessories,West,1,4500,0,948.77
+ORD0084,2026-04-23,Manoj,Backpack,Accessories,North,2,3520,20,661.69
+ORD0085,2026-12-09,Nithya,Mouse,Electronics,North,1,1500,0,183.33
+ORD0086,2026-07-21,Harish,Bookshelf,Furniture,Central,4,22400,20,3258.3
+ORD0087,2026-08-25,Vijay,Desk Lamp,Home,South,1,1530,15,125.02
+ORD0088,2026-06-22,Nithya,Mouse,Electronics,East,1,1425,5,189.17
+ORD0089,2026-10-04,Ravi,Study Table,Furniture,East,1,12000,0,1622.99
+ORD0090,2026-05-07,Anitha,Keyboard,Electronics,South,2,6000,0,1084.06
+ORD0091,2026-02-28,Harish,Watch,Accessories,North,1,4275,5,580.42
+ORD0092,2026-11-07,Karthik,Bookshelf,Furniture,North,2,12600,10,1094.26
+ORD0093,2026-10-22,Nithya,Mouse,Electronics,West,1,1500,0,312.93
+ORD0094,2026-11-18,Rahul,Water Bottle,Home,South,1,720,20,122.76
+ORD0095,2026-10-17,Ravi,Water Bottle,Home,East,3,2160,20,407.99
+ORD0096,2026-11-28,Meena,Backpack,Accessories,South,1,1980,10,140.65
+ORD0097,2026-07-05,Keerthi,Study Table,Furniture,North,3,36000,0,4657.09
+ORD0098,2026-05-19,Pooja,Study Table,Furniture,Central,1,9600,20,2058.97
+ORD0099,2026-05-06,Priya,Bookshelf,Furniture,East,2,11200,20,1152.96
+ORD0100,2026-12-09,Nithya,Bookshelf,Furniture,East,1,5950,15,899.5
+ORD0101,2026-04-19,Ajay,Laptop,Electronics,East,2,99000,10,8820.34
+ORD0102,2026-05-22,Dinesh,Office Chair,Furniture,South,1,6800,20,1170.89
+ORD0103,2026-07-28,Manoj,Backpack,Accessories,Central,4,8800,0,867.83
+ORD0104,2026-01-09,Priya,Keyboard,Electronics,East,2,5100,15,671.71
+ORD0105,2026-10-25,Ajay,Keyboard,Electronics,West,1,2850,5,310.63
+ORD0106,2026-10-09,Meena,Backpack,Accessories,East,2,3740,15,820.78
+ORD0107,2026-03-03,Anitha,Water Bottle,Home,East,2,1620,10,162.36
+ORD0108,2026-09-05,Sneha,Smartphone,Electronics,Central,2,53200,5,4822.4
+ORD0109,2026-06-01,Rahul,Backpack,Accessories,East,2,4400,0,850.17
+ORD0110,2026-01-24,Ravi,Headphones,Electronics,Central,1,2800,20,224.71
+ORD0111,2026-09-09,Karthik,Mouse,Electronics,South,2,2850,5,461.87
+ORD0112,2026-04-05,Ravi,Watch,Accessories,East,1,3825,15,499.07
+ORD0113,2026-02-07,Harish,Bookshelf,Furniture,South,1,7000,0,868.79
+ORD0114,2026-02-13,Rahul,Headphones,Electronics,South,1,2800,20,593.21
+ORD0115,2026-11-13,Rahul,Backpack,Accessories,Central,3,5280,20,820.41
+ORD0116,2026-10-29,Surya,Study Table,Furniture,East,2,20400,15,2194.56
+ORD0117,2026-02-20,Anitha,Watch,Accessories,North,2,7200,20,1538.05
+ORD0118,2026-10-10,Priya,Mouse,Electronics,North,2,2850,5,280.38
+ORD0119,2026-01-17,Rahul,Laptop,Electronics,East,1,44000,20,5948.18
+ORD0120,2026-04-30,Sneha,Water Bottle,Home,Central,1,765,15,54.61
+ORD0121,2026-10-06,Rahul,Desk Lamp,Home,North,3,5130,5,656.75
+ORD0122,2026-06-07,Pooja,Mouse,Electronics,Central,3,4500,0,312.94
+ORD0123,2026-12-25,Nithya,Mouse,Electronics,East,1,1275,15,216.99
+ORD0124,2026-01-21,Surya,Backpack,Accessories,East,2,3740,15,272.54
+ORD0125,2026-12-12,Harish,Watch,Accessories,Central,1,4500,0,434.83
+ORD0126,2026-03-31,Manoj,Laptop,Electronics,Central,5,247500,10,37669.38
+ORD0127,2026-10-27,Surya,Desk Lamp,Home,West,1,1620,10,144.24
+ORD0128,2026-12-10,Karthik,Smartphone,Electronics,North,2,47600,15,5394.48
+ORD0129,2026-07-25,Dinesh,Office Chair,Furniture,South,1,7225,15,766.68
+ORD0130,2026-07-26,Swetha,Bookshelf,Furniture,South,1,6300,10,703.86
+ORD0131,2026-04-07,Swetha,Desk Lamp,Home,East,3,4590,15,578.89
+ORD0132,2026-04-15,Sneha,Watch,Accessories,Central,3,11475,15,2083.84
+ORD0133,2026-09-06,Karthik,Headphones,Electronics,South,4,11900,15,2391.13
+ORD0134,2026-06-09,Dinesh,Desk Lamp,Home,South,2,3420,5,593.59
+ORD0135,2026-02-28,Keerthi,Backpack,Accessories,South,1,2090,5,457.21
+ORD0136,2026-05-30,Swetha,Desk Lamp,Home,East,3,4590,15,960.34
+ORD0137,2026-10-10,Divya,Study Table,Furniture,West,3,30600,15,3029.31
+ORD0138,2026-03-11,Priya,Keyboard,Electronics,East,4,9600,20,1722.31
+ORD0139,2026-01-02,Suresh,Study Table,Furniture,East,1,9600,20,986.38
+ORD0140,2026-08-17,Dinesh,Watch,Accessories,West,2,7650,15,1518.08
+ORD0141,2026-06-14,Anitha,Office Chair,Furniture,North,1,6800,20,818.4
+ORD0142,2026-08-31,Nithya,Watch,Accessories,West,1,3825,15,256.21
+ORD0143,2026-01-19,Divya,Desk Lamp,Home,Central,3,5130,5,714.37
+ORD0144,2026-08-14,Karthik,Watch,Accessories,Central,1,4500,0,899.42
+ORD0145,2026-12-02,Divya,Bookshelf,Furniture,South,1,6650,5,835.22
+ORD0146,2026-12-21,Nithya,Bookshelf,Furniture,South,3,18900,10,2157.81
+ORD0147,2026-06-12,Manoj,Office Chair,Furniture,Central,3,20400,20,2464.35
+ORD0148,2026-05-28,Rahul,Laptop,Electronics,South,2,104500,5,16823.01
+ORD0149,2026-12-22,Suresh,Study Table,Furniture,South,5,60000,0,7859.31
+ORD0150,2026-07-11,Surya,Laptop,Electronics,North,1,55000,0,5881.64
+ORD0151,2026-04-03,Vijay,Keyboard,Electronics,North,2,4800,20,811.62
+ORD0152,2026-05-04,Manoj,Smartphone,Electronics,Central,2,47600,15,7575.71
+ORD0153,2026-12-08,Arun,Headphones,Electronics,West,1,3150,10,420.62
+ORD0154,2026-06-26,Harish,Mouse,Electronics,East,2,2850,5,204.68
+ORD0155,2026-06-04,Anitha,Desk Lamp,Home,West,4,6480,10,862.45
+ORD0156,2026-10-22,Suresh,Bookshelf,Furniture,East,1,5950,15,901.47
+ORD0157,2026-10-17,Ravi,Laptop,Electronics,Central,5,233750,15,24290.57
+ORD0158,2026-04-28,Pooja,Water Bottle,Home,East,2,1620,10,298.27
+ORD0159,2026-12-04,Divya,Keyboard,Electronics,South,2,4800,20,480.48
+ORD0160,2026-01-18,Harish,Desk Lamp,Home,East,2,3240,10,603.22
+ORD0161,2026-08-01,Vijay,Water Bottle,Home,North,1,810,10,90.94
+ORD0162,2026-05-20,Vijay,Headphones,Electronics,East,3,9450,10,1369.65
+ORD0163,2026-06-23,Karthik,Bookshelf,Furniture,West,4,25200,10,4522.13
+ORD0164,2026-12-12,Nithya,Smartphone,Electronics,Central,1,26600,5,5256.76
+ORD0165,2026-10-02,Karthik,Office Chair,Furniture,West,1,7225,15,449.59
+ORD0166,2026-11-23,Ajay,Office Chair,Furniture,South,2,15300,10,2349
+ORD0167,2026-10-15,Meena,Desk Lamp,Home,Central,1,1800,0,286.43
+ORD0168,2026-06-04,Surya,Keyboard,Electronics,South,2,5100,15,1048.06
+ORD0169,2026-09-10,Karthik,Headphones,Electronics,South,1,3500,0,380.44
+ORD0170,2026-07-09,Dinesh,Keyboard,Electronics,West,3,8550,5,1044.67
+ORD0171,2026-12-02,Karthik,Watch,Accessories,West,2,8550,5,1724.25
+ORD0172,2026-07-09,Anitha,Watch,Accessories,West,1,4050,10,264.2
+ORD0173,2026-12-18,Ajay,Bookshelf,Furniture,Central,4,25200,10,1912.6
+ORD0174,2026-03-04,Keerthi,Desk Lamp,Home,South,1,1530,15,159.34
+ORD0175,2026-01-26,Meena,Desk Lamp,Home,North,1,1440,20,310.14
+ORD0176,2026-10-11,Anitha,Headphones,Electronics,Central,3,9975,5,708
+ORD0177,2026-03-17,Pooja,Keyboard,Electronics,South,3,8550,5,962.47
+ORD0178,2026-10-04,Sneha,Mouse,Electronics,North,3,4275,5,931.97
+ORD0179,2026-07-03,Rahul,Smartphone,Electronics,Central,2,56000,0,4540.96
+ORD0180,2026-08-04,Swetha,Office Chair,Furniture,South,1,7650,10,523.14
+ORD0181,2026-09-20,Harish,Water Bottle,Home,South,1,765,15,141.13
+ORD0182,2026-12-04,Swetha,Bookshelf,Furniture,East,2,11200,20,749.71
+ORD0183,2026-09-03,Nithya,Bookshelf,Furniture,West,2,14000,0,976.25
+ORD0184,2026-02-11,Meena,Desk Lamp,Home,Central,1,1530,15,109.79
+ORD0185,2026-10-27,Dinesh,Headphones,Electronics,East,1,3150,10,503.66
+ORD0186,2026-09-16,Pooja,Study Table,Furniture,West,5,48000,20,5144.81
+ORD0187,2026-11-30,Dinesh,Smartphone,Electronics,North,3,84000,0,16501.53
+ORD0188,2026-08-21,Nithya,Study Table,Furniture,West,2,22800,5,2877.59
+ORD0189,2026-05-11,Ajay,Water Bottle,Home,North,1,765,15,84.15
+ORD0190,2026-02-13,Priya,Desk Lamp,Home,West,4,7200,0,537.09
+ORD0191,2026-10-12,Ravi,Smartphone,Electronics,Central,2,50400,10,9570.11
+ORD0192,2026-12-07,Surya,Backpack,Accessories,South,2,4400,0,553.21
+ORD0193,2026-09-17,Anitha,Mouse,Electronics,North,2,2700,10,206.76
+ORD0194,2026-10-12,Ajay,Desk Lamp,Home,South,2,3600,0,417.67
+ORD0195,2026-11-15,Pooja,Mouse,Electronics,Central,2,2550,15,497.82
+ORD0196,2026-05-20,Suresh,Laptop,Electronics,East,2,99000,10,6398.62
+ORD0197,2026-07-25,Priya,Office Chair,Furniture,North,1,8075,5,1216.19
+ORD0198,2026-09-29,Anitha,Water Bottle,Home,West,2,1800,0,134.43
+ORD0199,2026-06-16,Harish,Study Table,Furniture,Central,2,22800,5,2717.95
+ORD0200,2026-11-13,Ravi,Smartphone,Electronics,South,3,79800,5,6797.81
+ORD0201,2026-08-15,Surya,Mouse,Electronics,East,1,1275,15,175.57
+ORD0202,2026-02-26,Suresh,Keyboard,Electronics,Central,3,9000,0,1037.05
+ORD0203,2026-07-22,Pooja,Bookshelf,Furniture,South,2,12600,10,847.56
+ORD0204,2026-05-11,Suresh,Laptop,Electronics,East,1,52250,5,9550.04
+ORD0205,2026-07-14,Dinesh,Smartphone,Electronics,North,1,23800,15,2097.05
+ORD0206,2026-01-22,Surya,Backpack,Accessories,South,2,3960,10,283.27
+ORD0207,2026-10-21,Nithya,Bookshelf,Furniture,West,4,25200,10,3833.46
+ORD0208,2026-03-29,Pooja,Mouse,Electronics,West,1,1500,0,321.89
+ORD0209,2026-02-24,Rahul,Water Bottle,Home,West,4,3600,0,467.55
+ORD0210,2026-06-08,Meena,Watch,Accessories,North,1,4500,0,554.95
+ORD0211,2026-02-28,Swetha,Office Chair,Furniture,Central,3,25500,0,3612.77
+ORD0212,2026-11-27,Divya,Keyboard,Electronics,North,4,10800,10,1254.7
+ORD0213,2026-03-20,Priya,Smartphone,Electronics,North,1,26600,5,2334.41
+ORD0214,2026-08-18,Harish,Desk Lamp,Home,Central,2,2880,20,522.95
+ORD0215,2026-02-04,Manoj,Office Chair,Furniture,West,3,22950,10,1931.32
+ORD0216,2026-06-30,Swetha,Desk Lamp,Home,South,1,1620,10,250.5
+ORD0217,2026-05-27,Priya,Mouse,Electronics,South,2,3000,0,207.31
+ORD0218,2026-10-11,Ravi,Watch,Accessories,West,2,7650,15,1025.36
+ORD0219,2026-09-14,Divya,Watch,Accessories,South,2,8100,10,1270.09
+ORD0220,2026-02-13,Swetha,Bookshelf,Furniture,North,1,6300,10,1368.24
+ORD0221,2026-09-26,Swetha,Laptop,Electronics,Central,1,46750,15,10217.58
+ORD0222,2026-06-23,Pooja,Headphones,Electronics,South,1,3150,10,384.26
+ORD0223,2026-10-13,Nithya,Desk Lamp,Home,East,2,3600,0,405.9
+ORD0224,2026-06-20,Priya,Mouse,Electronics,Central,2,2400,20,479.34
+ORD0225,2026-12-02,Nithya,Desk Lamp,Home,North,1,1620,10,177.61
+ORD0226,2026-07-12,Meena,Watch,Accessories,North,2,9000,0,985.8
+ORD0227,2026-12-10,Surya,Desk Lamp,Home,Central,2,2880,20,215.86
+ORD0228,2026-04-20,Meena,Office Chair,Furniture,West,1,7650,10,679.64
+ORD0229,2026-06-01,Karthik,Keyboard,Electronics,Central,1,2850,5,241.65
+ORD0230,2026-06-22,Pooja,Backpack,Accessories,North,3,5280,20,348.69
+ORD0231,2026-12-21,Pooja,Watch,Accessories,North,1,4275,5,380.2
+ORD0232,2026-05-02,Keerthi,Water Bottle,Home,Central,1,765,15,90.49
+ORD0233,2026-05-03,Suresh,Mouse,Electronics,West,3,3825,15,372.71
+ORD0234,2026-08-25,Suresh,Keyboard,Electronics,West,1,2400,20,522.02
+ORD0235,2026-11-06,Divya,Backpack,Accessories,East,2,4180,5,797.14
+ORD0236,2026-02-22,Swetha,Laptop,Electronics,South,2,99000,10,14723.93
+ORD0237,2026-09-20,Divya,Mouse,Electronics,West,1,1425,5,147.7
+ORD0238,2026-06-28,Arun,Smartphone,Electronics,West,4,106400,5,20287.56
+ORD0239,2026-02-11,Ajay,Laptop,Electronics,North,1,49500,10,4837.36
+ORD0240,2026-11-29,Meena,Laptop,Electronics,North,1,55000,0,10684.75
+ORD0241,2026-03-13,Manoj,Headphones,Electronics,West,1,2975,15,509.83
+ORD0242,2026-04-21,Divya,Watch,Accessories,Central,1,4500,0,283.68
+ORD0243,2026-05-28,Rahul,Water Bottle,Home,East,2,1530,15,119.02
+ORD0244,2026-11-15,Keerthi,Smartphone,Electronics,South,1,23800,15,3861.13
+ORD0245,2026-01-09,Swetha,Smartphone,Electronics,Central,3,71400,15,11101.15
+ORD0246,2026-11-11,Ajay,Keyboard,Electronics,North,2,5400,10,694.86
+ORD0247,2026-07-04,Priya,Watch,Accessories,Central,1,4500,0,646.91
+ORD0248,2026-07-19,Manoj,Backpack,Accessories,South,2,3520,20,523.3
+ORD0249,2026-01-09,Ajay,Desk Lamp,Home,South,1,1620,10,162.95
+ORD0250,2026-06-20,Divya,Office Chair,Furniture,South,1,8500,0,1559.24
+ORD0251,2026-12-17,Keerthi,Office Chair,Furniture,West,2,16150,5,3114.71
+ORD0252,2026-08-23,Ravi,Desk Lamp,Home,East,1,1710,5,119.86
+ORD0253,2026-06-11,Suresh,Keyboard,Electronics,Central,1,2850,5,574.92
+ORD0254,2026-01-19,Anitha,Study Table,Furniture,East,5,48000,20,6515.71
+ORD0255,2026-06-19,Sneha,Office Chair,Furniture,South,3,25500,0,5062.46
+ORD0256,2026-07-17,Meena,Office Chair,Furniture,North,1,7225,15,1292.76
+ORD0257,2026-09-23,Sneha,Bookshelf,Furniture,South,2,12600,10,2619.41
+ORD0258,2026-04-03,Dinesh,Water Bottle,Home,East,1,765,15,119.64
+ORD0259,2026-06-06,Keerthi,Office Chair,Furniture,Central,1,7650,10,1267.97
+ORD0260,2026-01-22,Ajay,Water Bottle,Home,Central,1,765,15,88.93
+ORD0261,2026-11-23,Nithya,Study Table,Furniture,East,1,12000,0,864.08
+ORD0262,2026-03-15,Pooja,Backpack,Accessories,West,3,6270,5,1332.04
+ORD0263,2026-07-07,Ajay,Laptop,Electronics,West,1,52250,5,9643.39
+ORD0264,2026-07-09,Ajay,Watch,Accessories,West,1,4275,5,720.98
+ORD0265,2026-06-10,Sneha,Smartphone,Electronics,North,2,44800,20,5318.3
+ORD0266,2026-07-18,Dinesh,Smartphone,Electronics,South,1,26600,5,3719.93
+ORD0267,2026-11-10,Suresh,Mouse,Electronics,West,3,3825,15,360.82
+ORD0268,2026-08-16,Priya,Keyboard,Electronics,East,1,3000,0,396.98
+ORD0269,2026-05-29,Suresh,Desk Lamp,Home,North,1,1800,0,266.4
+ORD0270,2026-09-18,Rahul,Water Bottle,Home,South,2,1710,5,319.76
+ORD0271,2026-01-14,Ajay,Keyboard,Electronics,Central,3,8550,5,1594.23
+ORD0272,2026-02-14,Priya,Watch,Accessories,East,1,3600,20,290.75
+ORD0273,2026-07-29,Harish,Study Table,Furniture,South,5,51000,15,7349.68
+ORD0274,2026-12-15,Swetha,Headphones,Electronics,East,5,17500,0,2309.93
+ORD0275,2026-04-04,Divya,Headphones,Electronics,West,3,8400,20,1363.88
+ORD0276,2026-09-23,Divya,Backpack,Accessories,East,4,8800,0,1698.6
+ORD0277,2026-09-23,Suresh,Headphones,Electronics,South,1,3325,5,383.58
+ORD0278,2026-11-17,Suresh,Mouse,Electronics,Central,1,1200,20,124.69
+ORD0279,2026-10-25,Divya,Backpack,Accessories,North,1,2090,5,323.3
+ORD0280,2026-10-16,Ravi,Desk Lamp,Home,South,2,2880,20,328.38
+ORD0281,2026-04-18,Harish,Smartphone,Electronics,West,1,22400,20,2292.53
+ORD0282,2026-10-07,Suresh,Watch,Accessories,East,2,7650,15,1547.13
+ORD0283,2026-02-07,Ravi,Bookshelf,Furniture,North,1,5950,15,640.16
+ORD0284,2026-11-07,Divya,Bookshelf,Furniture,East,1,5950,15,551.23
+ORD0285,2026-03-08,Ajay,Water Bottle,Home,Central,1,810,10,175.01
+ORD0286,2026-05-17,Keerthi,Backpack,Accessories,North,1,2090,5,281.39
+ORD0287,2026-11-12,Surya,Headphones,Electronics,North,1,3150,10,665.47
+ORD0288,2026-04-08,Vijay,Headphones,Electronics,West,3,8400,20,1473.2
+ORD0289,2026-02-16,Nithya,Backpack,Accessories,Central,2,3960,10,552.73
+ORD0290,2026-01-25,Ravi,Bookshelf,Furniture,East,4,26600,5,4078.71
+ORD0291,2026-01-05,Karthik,Bookshelf,Furniture,West,2,11900,15,1258.06
+ORD0292,2026-07-07,Ravi,Headphones,Electronics,West,3,9450,10,1721.95
+ORD0293,2026-05-28,Priya,Laptop,Electronics,West,2,104500,5,12331.4
+ORD0294,2026-11-16,Pooja,Backpack,Accessories,South,2,3520,20,368.74
+ORD0295,2026-06-23,Dinesh,Headphones,Electronics,East,5,14875,15,1780.71
+ORD0296,2026-01-21,Ravi,Headphones,Electronics,South,1,2800,20,347.82
+ORD0297,2026-03-18,Pooja,Headphones,Electronics,Central,2,5950,15,851.4
+ORD0298,2026-07-21,Pooja,Headphones,Electronics,East,1,2800,20,310.7
+ORD0299,2026-12-29,Harish,Watch,Accessories,East,1,3600,20,522.63
+ORD0300,2026-02-26,Surya,Bookshelf,Furniture,Central,3,18900,10,2135.67
+ORD0301,2026-05-16,Harish,Mouse,Electronics,Central,3,4500,0,699.77
+ORD0302,2026-09-26,Pooja,Keyboard,Electronics,West,2,4800,20,656.98
+ORD0303,2026-12-25,Karthik,Headphones,Electronics,North,3,9975,5,648.89
+ORD0304,2026-12-20,Anitha,Laptop,Electronics,West,1,46750,15,3937.71
+ORD0305,2026-02-01,Divya,Backpack,Accessories,Central,3,5610,15,1120.04
+ORD0306,2026-06-10,Vijay,Keyboard,Electronics,West,2,5100,15,734.79
+ORD0307,2026-12-15,Sneha,Backpack,Accessories,Central,1,1980,10,332.92
+ORD0308,2026-06-02,Rahul,Bookshelf,Furniture,East,1,6650,5,695.86
+ORD0309,2026-06-28,Dinesh,Mouse,Electronics,East,2,2550,15,282.35
+ORD0310,2026-07-22,Ajay,Mouse,Electronics,North,1,1200,20,144.9
+ORD0311,2026-08-15,Sneha,Mouse,Electronics,West,1,1500,0,173.13
+ORD0312,2026-10-15,Sneha,Keyboard,Electronics,North,1,2400,20,248.11
+ORD0313,2026-01-26,Swetha,Smartphone,Electronics,North,2,44800,20,4403.17
+ORD0314,2026-08-30,Karthik,Desk Lamp,Home,North,1,1800,0,227.03
+ORD0315,2026-09-01,Manoj,Laptop,Electronics,North,4,209000,5,26146.99
+ORD0316,2026-02-15,Harish,Mouse,Electronics,North,1,1500,0,307.9
+ORD0317,2026-03-31,Surya,Backpack,Accessories,North,2,4400,0,906.91
+ORD0318,2026-04-06,Suresh,Laptop,Electronics,South,5,233750,15,43494.73
+ORD0319,2026-06-21,Suresh,Laptop,Electronics,West,1,44000,20,3395.4
+ORD0320,2026-03-10,Swetha,Desk Lamp,Home,West,2,3060,15,618.98
+ORD0321,2026-08-23,Sneha,Mouse,Electronics,North,1,1500,0,169.36
+ORD0322,2026-04-09,Vijay,Laptop,Electronics,Central,2,99000,10,14933.65
+ORD0323,2026-02-14,Nithya,Desk Lamp,Home,South,3,4590,15,653.82
+ORD0324,2026-05-08,Arun,Headphones,Electronics,East,5,14875,15,1662.67
+ORD0325,2026-06-04,Harish,Study Table,Furniture,Central,1,10800,10,2296.57
+ORD0326,2026-02-01,Karthik,Laptop,Electronics,West,1,49500,10,8456.73
+ORD0327,2026-12-27,Suresh,Mouse,Electronics,South,1,1200,20,249.24
+ORD0328,2026-04-24,Rahul,Desk Lamp,Home,North,4,6480,10,769.87
+ORD0329,2026-12-26,Dinesh,Bookshelf,Furniture,West,1,5600,20,670.77
+ORD0330,2026-12-15,Pooja,Backpack,Accessories,South,3,6270,5,1140.5
+ORD0331,2026-10-16,Karthik,Backpack,Accessories,South,1,1980,10,143.54
+ORD0332,2026-03-18,Vijay,Backpack,Accessories,East,4,8360,5,1267.65
+ORD0333,2026-09-08,Priya,Backpack,Accessories,Central,1,2090,5,365.14
+ORD0334,2026-08-01,Keerthi,Bookshelf,Furniture,Central,3,17850,15,1447.83
+ORD0335,2026-07-22,Sneha,Laptop,Electronics,South,2,99000,10,17396.76
+ORD0336,2026-06-26,Priya,Water Bottle,Home,Central,1,900,0,60.52
+ORD0337,2026-08-30,Ravi,Laptop,Electronics,East,4,220000,0,47912.03
+ORD0338,2026-11-27,Surya,Study Table,Furniture,East,1,11400,5,2080.87
+ORD0339,2026-12-16,Dinesh,Study Table,Furniture,North,1,10200,15,1225.05
+ORD0340,2026-10-03,Nithya,Desk Lamp,Home,Central,3,5400,0,478.2
+ORD0341,2026-01-12,Suresh,Headphones,Electronics,West,2,6650,5,1287.25
+ORD0342,2026-04-28,Rahul,Desk Lamp,Home,West,2,3060,15,444.03
+ORD0343,2026-02-27,Ravi,Office Chair,Furniture,West,1,8075,5,1695.63
+ORD0344,2026-02-04,Karthik,Watch,Accessories,Central,3,13500,0,1329.84
+ORD0345,2026-01-23,Nithya,Laptop,Electronics,West,1,55000,0,5453.66
+ORD0346,2026-05-29,Rahul,Keyboard,Electronics,Central,2,6000,0,494.53
+ORD0347,2026-03-15,Swetha,Office Chair,Furniture,North,2,15300,10,1497.94
+ORD0348,2026-10-30,Vijay,Study Table,Furniture,West,1,12000,0,1788.9
+ORD0349,2026-12-10,Nithya,Backpack,Accessories,Central,2,3960,10,834.19
+ORD0350,2026-07-12,Vijay,Office Chair,Furniture,Central,2,14450,15,1211.99
+ORD0351,2026-12-29,Divya,Bookshelf,Furniture,West,1,6650,5,718.98
+ORD0352,2026-03-10,Nithya,Laptop,Electronics,North,2,93500,15,13947.01
+ORD0353,2026-07-09,Priya,Mouse,Electronics,Central,1,1500,0,311.33
+ORD0354,2026-12-11,Pooja,Water Bottle,Home,Central,3,2700,0,277.98
+ORD0355,2026-10-28,Dinesh,Laptop,Electronics,North,3,156750,5,29585.64
+ORD0356,2026-01-08,Anitha,Bookshelf,Furniture,North,1,6300,10,683.61
+ORD0357,2026-12-23,Pooja,Water Bottle,Home,North,1,765,15,157.83
+ORD0358,2026-05-25,Nithya,Study Table,Furniture,West,4,38400,20,4280
+ORD0359,2026-09-20,Manoj,Backpack,Accessories,West,2,3960,10,403.33
+ORD0360,2026-06-13,Anitha,Smartphone,Electronics,East,3,71400,15,12984.85
+ORD0361,2026-03-16,Arun,Office Chair,Furniture,East,1,6800,20,1348.12
+ORD0362,2026-06-01,Divya,Backpack,Accessories,North,4,7040,20,1233.42
+ORD0363,2026-09-13,Dinesh,Office Chair,Furniture,East,1,6800,20,1314.7
+ORD0364,2026-11-25,Manoj,Mouse,Electronics,West,3,3825,15,821
+ORD0365,2026-10-07,Manoj,Headphones,Electronics,North,2,6300,10,548.62
+ORD0366,2026-02-08,Ravi,Backpack,Accessories,South,5,11000,0,1582.14
+ORD0367,2026-03-19,Arun,Study Table,Furniture,North,1,11400,5,807.97
+ORD0368,2026-12-08,Pooja,Backpack,Accessories,West,2,4400,0,698.96
+ORD0369,2026-07-30,Arun,Desk Lamp,Home,South,2,3600,0,522.55
+ORD0370,2026-01-09,Swetha,Backpack,Accessories,West,2,3520,20,761.72
+ORD0371,2026-05-04,Anitha,Headphones,Electronics,Central,1,3500,0,503.66
+ORD0372,2026-07-23,Priya,Backpack,Accessories,East,1,1980,10,203.49
+ORD0373,2026-04-26,Suresh,Study Table,Furniture,South,2,22800,5,4980.37
+ORD0374,2026-07-14,Nithya,Desk Lamp,Home,Central,5,9000,0,674.64
+ORD0375,2026-02-12,Manoj,Bookshelf,Furniture,West,1,7000,0,1207.19
+ORD0376,2026-02-18,Swetha,Desk Lamp,Home,South,3,4320,20,934.73
+ORD0377,2026-01-24,Priya,Keyboard,Electronics,East,1,2400,20,326.59
+ORD0378,2026-06-11,Arun,Backpack,Accessories,North,2,4400,0,390.27
+ORD0379,2026-06-03,Vijay,Watch,Accessories,Central,1,3825,15,797.97
+ORD0380,2026-10-04,Meena,Keyboard,Electronics,West,2,5100,15,858.46
+ORD0381,2026-06-27,Ravi,Water Bottle,Home,South,1,900,0,126.11
+ORD0382,2026-11-11,Pooja,Study Table,Furniture,West,1,12000,0,1373.94
+ORD0383,2026-08-19,Manoj,Office Chair,Furniture,North,1,7650,10,1418.06
+ORD0384,2026-12-15,Harish,Office Chair,Furniture,West,2,14450,15,1865.43
+ORD0385,2026-02-07,Priya,Smartphone,Electronics,East,3,75600,10,14189.28
+ORD0386,2026-06-12,Ajay,Headphones,Electronics,South,1,3325,5,593
+ORD0387,2026-05-19,Karthik,Smartphone,Electronics,North,1,25200,10,3305.18
+ORD0388,2026-09-20,Surya,Smartphone,Electronics,South,1,23800,15,3549
+ORD0389,2026-11-03,Meena,Laptop,Electronics,West,1,44000,20,3295.17
+ORD0390,2026-10-14,Rahul,Laptop,Electronics,Central,1,46750,15,8633.18
+ORD0391,2026-05-18,Suresh,Backpack,Accessories,East,1,1870,15,162.91
+ORD0392,2026-08-04,Suresh,Bookshelf,Furniture,West,1,6650,5,861.5
+ORD0393,2026-09-11,Pooja,Smartphone,Electronics,Central,1,26600,5,4664.15
+ORD0394,2026-07-22,Meena,Keyboard,Electronics,Central,2,5700,5,619.85
+ORD0395,2026-08-09,Pooja,Study Table,Furniture,North,3,32400,10,4226.12
+ORD0396,2026-04-01,Nithya,Mouse,Electronics,East,1,1425,5,194.71
+ORD0397,2026-05-05,Meena,Mouse,Electronics,West,2,2550,15,547.85
+ORD0398,2026-10-16,Anitha,Mouse,Electronics,Central,3,3825,15,452.89
+ORD0399,2026-08-25,Anitha,Backpack,Accessories,West,1,1760,20,113.18
+ORD0400,2026-07-29,Manoj,Mouse,Electronics,North,3,4500,0,859.66
+ORD0401,2026-08-05,Nithya,Desk Lamp,Home,South,1,1620,10,267.93
+ORD0402,2026-10-01,Swetha,Bookshelf,Furniture,West,5,29750,15,4556.48
+ORD0403,2026-10-02,Pooja,Backpack,Accessories,South,1,1980,10,341.08
+ORD0404,2026-11-10,Ravi,Smartphone,Electronics,Central,3,75600,10,6548.03
+ORD0405,2026-06-19,Surya,Desk Lamp,Home,South,2,3060,15,656.95
+ORD0406,2026-09-23,Dinesh,Laptop,Electronics,Central,1,52250,5,7404.25
+ORD0407,2026-08-26,Harish,Water Bottle,Home,Central,2,1530,15,183.38
+ORD0408,2026-06-01,Surya,Headphones,Electronics,South,1,3500,0,480.35
+ORD0409,2026-06-25,Keerthi,Smartphone,Electronics,North,3,79800,5,9235.46
+ORD0410,2026-12-23,Keerthi,Backpack,Accessories,East,2,3740,15,282.82
+ORD0411,2026-06-25,Karthik,Smartphone,Electronics,North,1,28000,0,1781.18
+ORD0412,2026-06-19,Dinesh,Water Bottle,Home,West,1,855,5,126.8
+ORD0413,2026-04-06,Surya,Bookshelf,Furniture,West,1,5950,15,956.53
+ORD0414,2026-08-08,Nithya,Laptop,Electronics,South,2,104500,5,13786.89
+ORD0415,2026-02-02,Harish,Water Bottle,Home,South,1,810,10,146.1
+ORD0416,2026-02-28,Sneha,Backpack,Accessories,West,1,1980,10,181.23
+ORD0417,2026-11-09,Nithya,Backpack,Accessories,Central,4,7920,10,1231.68
+ORD0418,2026-12-11,Suresh,Smartphone,Electronics,Central,1,23800,15,3778.92
+ORD0419,2026-05-03,Suresh,Watch,Accessories,South,1,4275,5,470.72
+ORD0420,2026-08-03,Pooja,Headphones,Electronics,North,1,3325,5,471.26
+ORD0421,2026-10-03,Vijay,Watch,Accessories,Central,1,4275,5,589.38
+ORD0422,2026-08-19,Pooja,Headphones,Electronics,South,2,6650,5,598.07
+ORD0423,2026-07-16,Dinesh,Office Chair,Furniture,Central,4,28900,15,2365.34
+ORD0424,2026-08-16,Manoj,Desk Lamp,Home,North,2,3060,15,387.09
+ORD0425,2026-05-21,Rahul,Smartphone,Electronics,Central,2,53200,5,5678.27
+ORD0426,2026-09-11,Dinesh,Mouse,Electronics,Central,1,1275,15,191.89
+ORD0427,2026-07-07,Dinesh,Smartphone,Electronics,South,2,50400,10,9274.51
+ORD0428,2026-02-22,Rahul,Water Bottle,Home,East,1,855,5,186.7
+ORD0429,2026-02-14,Keerthi,Laptop,Electronics,South,1,49500,10,9798.62
+ORD0430,2026-12-30,Pooja,Keyboard,Electronics,West,1,2400,20,408.63
+ORD0431,2026-01-31,Harish,Headphones,Electronics,East,2,6650,5,1264.6
+ORD0432,2026-12-27,Suresh,Backpack,Accessories,East,1,1760,20,153.02
+ORD0433,2026-12-14,Karthik,Watch,Accessories,North,1,3600,20,783.64
+ORD0434,2026-03-06,Divya,Study Table,Furniture,North,4,43200,10,8585.03
+ORD0435,2026-12-13,Nithya,Headphones,Electronics,West,2,6650,5,1209.21
+ORD0436,2026-07-12,Keerthi,Headphones,Electronics,South,2,6300,10,1010.84
+ORD0437,2026-05-23,Ajay,Desk Lamp,Home,West,3,5400,0,672.06
+ORD0438,2026-02-17,Keerthi,Bookshelf,Furniture,East,1,7000,0,1393.18
+ORD0439,2026-08-08,Anitha,Smartphone,Electronics,West,3,71400,15,6772.49
+ORD0440,2026-10-23,Divya,Mouse,Electronics,Central,1,1350,10,153.96
+ORD0441,2026-11-17,Keerthi,Bookshelf,Furniture,South,3,21000,0,1414.37
+ORD0442,2026-01-01,Surya,Smartphone,Electronics,North,4,106400,5,13896.45
+ORD0443,2026-05-21,Priya,Water Bottle,Home,East,4,3240,10,276.81
+ORD0444,2026-11-17,Suresh,Mouse,Electronics,North,1,1425,5,97.31
+ORD0445,2026-09-02,Priya,Study Table,Furniture,North,2,24000,0,1444.17
+ORD0446,2026-12-23,Meena,Watch,Accessories,South,1,3825,15,235.18
+ORD0447,2026-07-16,Priya,Study Table,Furniture,South,2,20400,15,1455.18
+ORD0448,2026-03-10,Divya,Smartphone,Electronics,South,1,25200,10,2064.91
+ORD0449,2026-08-14,Ajay,Backpack,Accessories,North,2,3520,20,577.29
+ORD0450,2026-08-15,Anitha,Desk Lamp,Home,South,2,3060,15,485.23
+ORD0451,2026-07-16,Ajay,Smartphone,Electronics,West,1,28000,0,4321.29
+ORD0452,2026-02-13,Rahul,Office Chair,Furniture,Central,3,24225,5,2527.03
+ORD0453,2026-12-20,Arun,Watch,Accessories,East,2,7200,20,760.23
+ORD0454,2026-07-20,Suresh,Keyboard,Electronics,South,2,4800,20,432.88
+ORD0455,2026-11-23,Pooja,Keyboard,Electronics,South,2,6000,0,591.44
+ORD0456,2026-06-12,Divya,Backpack,Accessories,West,3,6600,0,1438.15
+ORD0457,2026-08-30,Priya,Watch,Accessories,South,1,3600,20,609.37
+ORD0458,2026-01-31,Nithya,Watch,Accessories,Central,1,4050,10,382.8
+ORD0459,2026-08-05,Nithya,Mouse,Electronics,South,2,2400,20,438.57
+ORD0460,2026-02-12,Suresh,Desk Lamp,Home,South,2,2880,20,243.16
+ORD0461,2026-07-20,Harish,Backpack,Accessories,South,4,8360,5,1219.08
+ORD0462,2026-02-14,Surya,Mouse,Electronics,South,2,2850,5,197.41
+ORD0463,2026-12-03,Vijay,Bookshelf,Furniture,South,2,14000,0,1532.81
+ORD0464,2026-06-27,Swetha,Laptop,Electronics,Central,2,110000,0,9483.45
+ORD0465,2026-05-18,Karthik,Water Bottle,Home,South,1,810,10,65.05
+ORD0466,2026-05-15,Harish,Office Chair,Furniture,South,3,22950,10,3300.59
+ORD0467,2026-10-18,Vijay,Bookshelf,Furniture,East,2,12600,10,867.77
+ORD0468,2026-12-12,Karthik,Headphones,Electronics,North,1,3500,0,710.79
+ORD0469,2026-01-07,Rahul,Water Bottle,Home,South,2,1800,0,355.3
+ORD0470,2026-01-19,Dinesh,Bookshelf,Furniture,West,1,6650,5,589.41
+ORD0471,2026-06-13,Sneha,Keyboard,Electronics,South,1,2550,15,526.67
+ORD0472,2026-01-27,Vijay,Watch,Accessories,North,1,3600,20,603.84
+ORD0473,2026-08-27,Suresh,Backpack,Accessories,East,5,9350,15,664.11
+ORD0474,2026-04-13,Suresh,Office Chair,Furniture,Central,1,7225,15,442.71
+ORD0475,2026-10-30,Manoj,Mouse,Electronics,North,2,2850,5,382.55
+ORD0476,2026-07-29,Arun,Water Bottle,Home,North,4,3420,5,287.59
+ORD0477,2026-01-01,Nithya,Backpack,Accessories,East,1,2200,0,466.75
+ORD0478,2026-01-31,Divya,Smartphone,Electronics,East,1,26600,5,3382.74
+ORD0479,2026-09-24,Surya,Smartphone,Electronics,East,1,26600,5,5414.86
+ORD0480,2026-09-16,Divya,Bookshelf,Furniture,West,5,35000,0,5352.32
+ORD0481,2026-03-08,Rahul,Smartphone,Electronics,East,2,56000,0,7257.45
+ORD0482,2026-06-17,Meena,Mouse,Electronics,West,3,3825,15,658.34
+ORD0483,2026-10-27,Karthik,Mouse,Electronics,North,1,1425,5,116.53
+ORD0484,2026-03-03,Dinesh,Smartphone,Electronics,East,1,23800,15,2623.84
+ORD0485,2026-03-03,Priya,Keyboard,Electronics,North,2,5100,15,522.25
+ORD0486,2026-06-17,Divya,Desk Lamp,Home,South,1,1440,20,95.69
+ORD0487,2026-01-26,Suresh,Water Bottle,Home,East,1,810,10,99.95
+ORD0488,2026-10-12,Dinesh,Headphones,Electronics,North,1,2975,15,585.29
+ORD0489,2026-02-01,Rahul,Smartphone,Electronics,North,2,53200,5,4225.81
+ORD0490,2026-11-27,Priya,Keyboard,Electronics,Central,3,8100,10,1375.43
+ORD0491,2026-02-03,Anitha,Watch,Accessories,West,1,4500,0,285.7
+ORD0492,2026-08-25,Ravi,Headphones,Electronics,North,1,3150,10,250.75
+ORD0493,2026-07-15,Surya,Watch,Accessories,North,1,3825,15,533.13
+ORD0494,2026-08-17,Divya,Office Chair,Furniture,South,1,8075,5,839.78
+ORD0495,2026-09-13,Surya,Watch,Accessories,Central,2,8550,5,1398.48
+ORD0496,2026-08-03,Anitha,Bookshelf,Furniture,Central,1,6300,10,764.08
+ORD0497,2026-07-15,Ajay,Keyboard,Electronics,West,2,4800,20,898.44
+ORD0498,2026-09-15,Meena,Backpack,Accessories,West,3,5940,10,1223.81
+ORD0499,2026-01-16,Sneha,Mouse,Electronics,South,1,1350,10,209.98
+ORD0500,2026-03-23,Karthik,Bookshelf,Furniture,North,2,11200,20,2463.29
