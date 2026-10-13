@@ -32,6 +32,7 @@ This project analyzes e-commerce sales data using Excel, MySQL, Python, and Powe
 - `Ecommerce_Sales_Analysis.pbix` — Power BI dashboard
 - `Ecommerce_Sales_dataset.csv.xlsx` — Source workbook
 - `ecommerce_sales_analysis.sql` — SQL analysis queries
+- - `category_summary.csv` — Category-wise sales, profit, and profit margin summary
 - `ecommerce_sales_cleaned.csv` — Cleaned dataset
 - `kpi_summary.csv` — Overall KPI summary
 - `monthly_sales_summary.csv` — Monthly sales summary
